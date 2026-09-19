@@ -6,6 +6,8 @@ My first HTML & CSS template, built as a training project with **Elzero Web Scho
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Elzero Web School](https://img.shields.io/badge/Training-Elzero_Web_School-blue?style=flat)
 
+🔗 **Live Demo:** [https://shena9y.github.io/HTML-CSS-Templet-one/](https://shena9y.github.io/HTML-CSS-Templet-one/)
+
 ## ✨ Features
 
 - 🦸 **Landing hero** with intro text and background imagery
@@ -38,6 +40,8 @@ HTML-CSS-Templet-one/
 ```
 
 ## 🚀 Getting Started
+
+**Try it live:** [https://shena9y.github.io/HTML-CSS-Templet-one/](https://shena9y.github.io/HTML-CSS-Templet-one/) — no installation needed!
 
 ```bash
 git clone https://github.com/shena9y/HTML-CSS-Templet-one.git
